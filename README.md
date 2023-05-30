@@ -4,5 +4,4 @@
 
 - 23/05 [Programação Orientada a Objetos](POO)
 
-<!-- [passo a passo de como se fazer um projeto com Django Rest Framework](https://github.com/pdr-tuche/ROADMAP-django-rest)
--->
+- 30/05 [Arquitetura REST e DRF](Arquitetura_REST_E_DRF)
