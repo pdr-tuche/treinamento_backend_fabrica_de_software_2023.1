@@ -1,6 +1,8 @@
 # Arquitetura_REST_E_DRF
 
+- [demanda home office Django Rest Framework](./demanda_HomeOffice/)
 - demonstracao [demanda home office POO](./POO_sistema_cadastro/)
+- demonstracao [API com Django Rest](./DRF/)
 
 ## Links úteis
 
