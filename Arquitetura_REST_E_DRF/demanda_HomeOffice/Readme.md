@@ -8,5 +8,3 @@
 
 - [seven days of code](https://github.com/pdr-tuche/Seven-Days-Of-Code-Java)
 
-https://github.com/pdr-tuche/swagger-rest-api
-https://github.com/pdr-tuche/Seven-Days-Of-Code-Java
